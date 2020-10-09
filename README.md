@@ -1,8 +1,7 @@
 # Hackclub-CGC-website
 
 This is the official repository of
-HACKCLUB-CGC website - <a href = "https://hackclubcgc.tech ">Website Link</a><br> 
-
+HACKCLUB-CGC website - <a target="_blank" href = "https://hackclubcgc.tech ">Website Link</a><br> 
 
 Current version- "1.0"
 
@@ -11,8 +10,8 @@ Current version- "1.0"
 
 ## Contact Us on-
 
-<a href = "https://www.instagram.com/hackclubcgc/ ">Instagram</a><br>
-<a href = "https://www.facebook.com/Hackclub-CGC-108265361022351/">Facebook</a> <br>
-<a href = "https://t.me/joinchat/OfRcaUY2Qrnze53bH9wRtw "/>Telegram </a><br>
+<a target="_blank" href = "https://www.instagram.com/hackclubcgc/ ">Instagram</a><br>
+<a target="_blank" href = "https://www.facebook.com/Hackclub-CGC-108265361022351/">Facebook</a> <br>
+<a  target="_blank" href = "https://t.me/joinchat/OfRcaUY2Qrnze53bH9wRtw "/>Telegram </a><br>
  **Mail Us At -** hackclubcgc@gmail.com or services@hackclubcgc.tech
 
