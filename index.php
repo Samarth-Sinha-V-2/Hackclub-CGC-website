@@ -154,9 +154,9 @@ window.onload = function() {
                            
                   <?php
                       $servername = "localhost";
-                      $username = {USERNAME};
-                      $password = {PASSWORD};
-                      $dbname =  {DATABASENAME};
+                      $username = USERNAME;
+                      $password = PASSWORD;
+                      $dbname =  DATABASENAME;
                       $_SESSION["check"] = 0;
     
                       $mysqli = new mysqli("$servername","$username","$password","$dbname");
